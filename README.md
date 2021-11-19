@@ -26,7 +26,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/PEPE-SIR) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/albin-av/PEPE-SIR) 
 
 
 # Requirements
@@ -44,12 +44,12 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/pepesir/PEPE-SIR/blob/master/session.json#L1)
+[`Click Here`](https://github.com/albin-av/PEPE-SIR/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/pepesir/PEPE-SIR/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/albin-av/PEPE-SIR/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/albin-av/PEPE-SIR/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
